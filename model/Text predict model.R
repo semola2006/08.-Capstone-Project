@@ -1,4 +1,4 @@
-#Tjis code supports the app deployed on shinyapp called "wordpredict", part of the Coursera Specialization 
+#This code supports the app deployed on shinyapp called "wordpredict", part of the Coursera Specialization 
 
 
 # begin with cleaning env and load libraries, set dir
